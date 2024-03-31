@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 Currently working on BullsSulease and griding Leetcode!
 - 🔭 Interest in leveraging technology to solve real-world problems.
 - 👨‍🏫 Led technical workshops and innovative projects like Tweet'N'Grow and CommShield.
-- ⚡ Drive by my passion for web development and robotics
+- ⚡ Drive by my passion for web development and robotics.
 - 📫 How to reach me: Email: bhuvanp@usf.edu, LinkedIn: https://www.linkedin.com/in/bhuvan-biju/
 
 
