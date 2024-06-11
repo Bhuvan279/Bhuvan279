@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😄 Hello! I'm Bhuvan Biju, a Computer Science student at the University of South Florida.
 - 🌱 Currently working on BullsSulease and griding Leetcode!
-- 🔭 Interest in leveraging technology to solve real-world problems.
+- 🔭 Interested in leveraging technology to solve real-world problems.
 - 👨‍🏫 Led technical workshops and innovative projects like Tweet'N'Grow and CommShield.
 - ⚡ Driven by my passion for web development and robotics.
 - 📫 How to reach me: Email: bhuvanp@usf.edu, LinkedIn: https://www.linkedin.com/in/bhuvan-biju/
