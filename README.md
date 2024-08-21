@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Hello! I'm Bhuvan Biju, a Computer Science student at the University of South Florida.
-- 🌱 Currently working on BullsSulease and griding Leetcode!
+- 🌱 Currently working on BullsSulease (Live now: https://bullsublease.com) and griding Leetcode!
 - 🔭 Interested in leveraging technology to solve real-world problems.
-- 👨‍🏫 Led technical workshops and innovative projects like Tweet'N'Grow and CommShield.
-- ⚡ Driven by my passion for web development and robotics.
+- 👨‍🏫 Led technical workshops and innovative projects like BullSublease, Tweet'N'Grow and CommShield.
+- ⚡ Driven by my passion for web development, AI robotics.
 - 📫 How to reach me: Email: bhuvanp@usf.edu, LinkedIn: https://www.linkedin.com/in/bhuvan-biju/
+  
 
 
 
