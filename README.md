@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 Interested in leveraging technology to solve real-world problems.
 - 👨‍🏫 Led technical workshops and innovative projects like BullSublease, Tweet'N'Grow and CommShield.
 - ⚡ Driven by my passion for web development, AI robotics.
-- 📫 How to reach me: Email: bhuvanp@usf.edu, LinkedIn: https://www.linkedin.com/in/bhuvan-biju/
+- 📫 How to reach me: Email: bhuvanbiju2003@gmail.com, LinkedIn: https://www.linkedin.com/in/bhuvan-biju/
   
 
 
